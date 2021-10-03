@@ -1,3 +1,8 @@
+npm install --save reactstrap react react-dom
+npm install --save-dev @types/reactstrap
+The two goes with Bootstrap cdn
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
